@@ -1,0 +1,533 @@
+header{
+    background-color: #534334;
+    height: 140px;
+    width: 100%;
+    display: flex;
+    border-bottom: solid 2px #f8d7bd;
+   
+}
+ul{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+li{
+    font-size: 13px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #502314;
+    margin-left: 15px;
+    list-style: none;
+    border-radius: 30px;
+    letter-spacing: -0px;
+    padding: 10px;
+    height: 20px;
+}
+li:hover{
+    background-color: #c48165;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-left:10px;
+    align-items: center;
+    
+}
+.icon:hover{
+    color: white;
+}
+.icons{
+    margin-left: 880px;
+    position: relative;
+    bottom: 60px;
+   
+}
+button{
+    background-color: transparent;
+    border: 2px solid #FFF5C2;
+    padding: 10px 20px;
+    font-weight: 800;
+    color:white;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.con{
+    position: relative;
+    right: 195px;
+    bottom: 47px;
+
+}
+h2{
+    color: #534334;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 900;
+    letter-spacing: -1px;
+    font-size: 25px;
+    
+}
+.images{
+    display: flex;
+    background-image: #0e0b08;
+    height: 500px;
+    width: 1200px;
+    position: relative;
+    bottom: 20px;
+}
+.images:hover{
+    background-image:url();
+    background-size: cover;
+    
+}
+.meal{
+   
+    width: 500px;
+}
+.arrow{
+   
+    position: relative;
+    top: 170px;
+    right: 50px;
+}
+.arrow:hover{
+    color: #c48165;
+}
+.or{
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #c48165;
+    margin-left: 120px;
+    margin-top: 30px;
+    border-radius: 30px;
+    letter-spacing: -0px;
+    padding: 10px;
+    height: 20px;
+    
+}
+.your{
+    color: #c48165;
+    margin-top: 180px;
+    font-size: 30px;
+    margin-left: 20px;
+    
+}
+.tonss{
+    position: relative;
+    bottom:80px ;
+    margin-left:620px;
+}
+.food{
+    width:400px ;
+    height: 250px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.foods{
+    margin-left: 80px;
+    display: flex;
+  
+}
+p{
+    
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 15px;
+    color: #534334;
+    margin-left: 10px;
+}
+.div2{
+    background-color:#c48165;
+    height: 250px;
+
+}
+.t{
+    color: #2c231b;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    position: relative;
+    top: 150px;
+    left: 80px;
+}
+.circle{
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: #c48165;
+    color: white;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+.maincircle{
+    display: flex;
+    margin-left: 1020px;
+    position: relative;
+    bottom: 80px;
+
+}
+.tonss:hover
+{
+    background-color: #695543;
+    justify-content: center;
+    align-items: center;
+
+}
+.phone{
+    margin-left: 700px;
+    margin-top: 120px;
+}
+.circles{
+    margin-left:120px ;
+    position: relative;
+    bottom: 10px;
+    background-color: #c48165;
+    color:white;
+}
+button:hover{
+    background-color: #695543;
+}
+h2:hover{
+    color:#0e0b08 ;
+}
+.con{
+    font-size: 20px;
+    color: #2c231b;
+}
+.immg{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top:84px ;
+  
+
+}
+h3{
+    position: relative;
+    top:24px;
+    color: white;
+    font-style: italic;
+    font-size: 13px;
+    margin-left:50px;
+
+
+}
+p{
+    color: white;
+    position: relative;
+    bottom: 35px;
+    left: 132px;
+    font-size: 10px;
+}
+.meat{
+    color: #c48165;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    letter-spacing: 0.50px;
+    font-size: 15px;
+   
+}
+
+
+h5{
+  color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+  border-right: solid 1px white;
+  padding: 5px;
+  height: 8px;
+  font-size: 12px;
+  
+  
+
+}
+.div4{
+    margin-left: 150px;
+    display: flex;
+    position: relative;
+    top: 130px;
+    
+}
+.line{
+    
+    border-bottom: solid 1px white;
+    width: 1050px;
+    margin-top: 120px;
+    margin-left: 140px;
+
+}
+.num{
+    margin-bottom: 20px;
+  
+}
+h5:hover{
+    color: #0e0b08;
+}
+.num:hover{
+    color: #0e0b08;
+}
+i:hover{
+    color: #0e0b08;
+}
+h1{
+    color:#d87007;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h1:hover{
+    color: #2c231b;
+}
+.ul2{
+    position: relative;
+    bottom: 70px;
+    margin-left: 430px;
+  
+}
+li{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 12px;
+    color: white;
+}
+.m{
+   width: 665px;
+   
+}
+.image{
+    width: 300px;
+    height: 200px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.imgss{
+    margin-left: 130px;
+
+}
+.pss{
+    margin-top: 30px;
+    position: relative;
+    right:55px;
+    display: flex;
+
+    
+}
+.pop{
+    color: #d87007;
+    margin-left: 110px;
+    font-size: 12px;
+    margin-right: 70px;
+    letter-spacing: 0.30px;
+}
+
+.iconss{
+    width: 25px;
+    height: 20px;
+
+}
+.pop:hover{
+    color: #2c231b;
+}
+.deva{
+    background-color:white ;
+    background-size: cover;
+    height: 480px;
+    width: 1500px;
+    display: flex;
+  
+    
+}
+.box{
+    background-color:white;;
+    width: 450px;
+    height: 380px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+    
+
+}
+
+.imggg{
+     width: 40px;
+     height: 40px;
+     margin-top: 15px;
+     margin-left: 30px;
+    
+ 
+ }
+.dine{
+     font-size: 17px;
+     margin-left: 45px;
+     color: #502314;
+     top: 10px;
+ }
+ .circ{
+    display: flex;
+    background-color:rgb(249, 245, 241);
+    height: 70px;
+    width: 90%;
+    margin-left: 30px;
+    border-radius: 10px;
+ }
+ .circ:hover{
+    background-color:#c48165 ;
+ }
+ .circ2{
+    margin-top: 15px;
+ }
+ .brown{
+    color: #502314;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+
+}
+
+.pay{
+    width: 33px;
+    height: 23px;
+}
+.payment{
+   margin-left: 48px;
+   letter-spacing:3px;
+}
+.cash{
+    font-size: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  
+}
+.stack{
+    position: relative;
+    top: 47px;
+    
+}
+.pays{
+    margin-right: 80px;
+    position: relative;
+    top: px;
+    font-size: 20px;
+    color: #d87007;
+
+
+}
+.pays:hover{
+    color: #502314;
+}
+.div8{
+    position: relative;
+    bottom: 60px;
+    width: 400px;
+    height: 40px;
+}
+#div11{
+    background-image:url(https://img.freepik.com/free-photo/vegetables-spices-near-salad-spatula_23-2148113668.jpg?w=2000&t=st=1687186571~exp=1687187171~hmac=f9d8703bf1ab88b08763a74221a7147cdeb9eac303144d6df0ca0ae3a7e4b631);
+    width: 1300px;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    right: 1px;
+ 
+    
+   
+}
+h4{
+    color: white;
+    font-size: 10px;
+    position: relative;
+    bottom: 83px;
+    margin-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.a{
+    margin-left: 40px;
+}
+#offers{
+    background-image: url(https://img.freepik.com/free-photo/overhead-view-tasty-spaghetti-pasta-fresh-aromatic-ingredients-table_23-2148194995.jpg?w=2000&t=st=1688410521~exp=1688411121~hmac=d93daa0e1c155cb2140ead4523472e5888f99b41159eff9ca502f28c5808fd2f);
+    width: 1400px;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    right: 1px;
+    
+}
+.off{
+    width: 150px;
+    height: 100px;
+}
+.off2{
+    width: 500px;
+    height: 110px;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+   
+    
+}
+
+.divs{
+   
+    width: 450px;
+    height: 500px;
+    margin-left: 800px;
+    margin-top: 50px;
+    border-left: solid 5px #f8d7bd;
+    padding:10px;
+   
+    
+   
+}
+.plat{
+    font-size: 14px;
+    color: #695543;
+}
+.off2:hover{
+   background-color: #f2e4d6;
+   border: solid 2px #d87007 ;
+
+}
+.igs{
+    margin-left: 80px;
+    border-radius: 10px;
+}
+.off3{
+    border: solid 2px #f8d7bd;
+}
+
+ 
+
+
+
+
+
